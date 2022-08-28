@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Hopscotch Web Editor Fix (Firefox): Make Blocks Draggable
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/RawrbearHS/hopscotch-webedit-fix-firefox
 // @version      1.0
 // @description  Lets you drag blocks in the Hopscotch web editor
 // @author       Rawrbear
